@@ -1,4 +1,4 @@
-# ⚡ WorkPulse — Smart Productivity & Activity Intelligence Platform
+# ⚡ WorkPulse - Smart Productivity & Activity Intelligence Platform
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3.3-green.svg)](https://flask.palletsprojects.com/)
